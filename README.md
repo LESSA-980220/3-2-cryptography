@@ -1,2 +1,2 @@
 # Cryptography
-semester 3-2
+semester 3-2 Cryptography
